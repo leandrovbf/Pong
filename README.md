@@ -1,2 +1,2 @@
 # Pong
- Game00
+Simple game similar to Pong from Atari. 
